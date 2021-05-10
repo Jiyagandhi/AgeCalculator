@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: radial-gradient(#fff,#ffd6d6);
+}
+#jiya{
+	text-align: center;
+	font-family: monotype corsiva;
+	font-size: 20px;
+}
+.birthday{
+	text-align: center;
+	font-family: arial;
+
+}
+.Result{
+	text-align: center;
+	font-family: bazooka;
+	font-size: 15px;
+}
+.date{
+    font-size: 20px;
+    font-family: monotype corsiva;
+    text-align: center;
+    margin-left: 100px;
+}
+.h2{
+	text-align: center;
+	font-family: monotype corsiva;
+	font-size: 35px;
+}
+.birth{
+	font-size: 18px;
+	font-family: monotype corsiva;
+}
+.button{
+	border-style: none;
+	background-color: #ffd6d6;
+	border-radius: 100px;
+	font-size: 18px;
+	font-family: monotype corsiva;
+	height: 25px;
+	width: 25px;
+	text-align: center;
+	margin-left: 2000px;
+}
+.button:hover{
+	background: purple;
+	color: white;
+	font-size: 18px;
+	font-family: monotype corsiva;
+	text-align: center;
+}
+.p{
+	font-family: didot;
+	text-align: center;
+}
+.td{
+	font-family: monotype corsiva; 
+	text-align: center;
+	font-size: 15px;
+}
+.last{
+	text-align: center;
+}
